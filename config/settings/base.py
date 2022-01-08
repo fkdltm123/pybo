@@ -160,7 +160,7 @@ LOGGING = {
         },
         'django.server': {
             'level': 'INFO',
-            'class': 'logging,StreamHandler',
+            'class': 'logging.StreamHandler',
             'formatter': 'django.server',
         },
         'mail_admins': {

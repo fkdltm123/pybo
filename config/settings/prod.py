@@ -10,7 +10,7 @@ DATABASES = {
         'NAME': 'mysite',
         'USER': 'mysiteuser',
         'PASSWORD': '123123',
-        'HOST': 'localhost',
-        'PORT': '',
+        'HOST': '15.165.115.183',
+        'PORT': '5432',
     }
 }
